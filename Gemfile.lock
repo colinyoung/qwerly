@@ -1,0 +1,16 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    activesupport (3.0.7)
+    crack (0.1.8)
+    cutest (1.1.2)
+    httparty (0.7.7)
+      crack (= 0.1.8)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  activesupport
+  cutest (~> 1.1)
+  httparty
